@@ -17,7 +17,7 @@ Quality | What it means here
 --------|-------------------
 **SwiftUI fluency** | you've shipped real iOS apps and know the platform deeply
 **taste in motion** | you feel when a transition is off, even if the code compiles clean
-**speed without breakage** | fast iteration, not reckless — you balance velocity with stability
+**speed without breakage** | fast iteration, not reckless -- you balance velocity with stability
 **zero-to-one ready** | comfortable owning the foundation without a blueprint
 **autonomy** | once the goal is clear, you don't need handholding
 
@@ -42,5 +42,4 @@ You care about polish because you care about people using what you build.
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
 ```
 
-**interested?** → reach out
-
+**interested?** → https://tastelayers.com/
